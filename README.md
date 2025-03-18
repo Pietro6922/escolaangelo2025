@@ -1,2 +1,2 @@
-# escolaangelo2025
-exercicios
+# EscolaAngelo2025
+Exercícios Python
